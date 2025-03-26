@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Jhonatan 
+# 👋 Olá, eu sou Jhonatan/Naylor-C 
 
 🚀 Apaixonado por sistemas de baixo nível, programação de alto desempenho e engenharia de software.  
 💻 Desenvolvedor com experiência em C, C++, Rust, Zig e Java.  
