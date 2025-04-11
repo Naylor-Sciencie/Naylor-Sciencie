@@ -34,8 +34,15 @@
 
 ## 🔗 Onde me encontrar  
 🔹 [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
-🔹 [Portfólio](https://seusite.com)  
-🔹 [Email](mailto:seuemail@example.com)  
+🔹 [Portfólio](https://naylor-c.github.io/Naylor-C/)  
+🔹 [Contact] {
+   [Discord]()
+   [Whatsapp](https://wa.me/5513920012625)
+   [Telegram]()
+   []
+   []
+   []
+  }  
 
 ---
 
