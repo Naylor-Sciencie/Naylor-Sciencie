@@ -37,8 +37,11 @@
 🔹 [Portfólio](https://naylor-c.github.io/Naylor-C/)  
 🔹 [Contact] {
    [Discord]()
+   \n
    [Whatsapp](https://wa.me/5513920012625)
+   \n
    [Telegram]()
+   \n
    []
    []
    []
