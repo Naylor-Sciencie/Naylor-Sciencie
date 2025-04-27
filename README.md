@@ -28,7 +28,7 @@
 
 ## 📊 Estatísticas do GitHub  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naylor-C&show_icons=true&theme=red)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naylor-C&show_icons=true&theme=dark)  
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Naylor-C&layout=compact&theme=dark)
 
 ---
