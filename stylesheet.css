@@ -1,1 +1,165 @@
 
+    :root {
+      --primary: #2b2d42;
+      --secondary: #8d99ae;
+      --accent: #ef233c;
+      --light: #edf2f4;
+      --dark: #1a1a2e;
+    }
+    
+    body {
+      font-family: 'Fira Code', monospace, sans-serif;
+      line-height: 1.6;
+      color: var(--light);
+      background-color: var(--dark);
+      margin: 0;
+      padding: 0;
+    }
+    
+    header {
+      background: var(--primary);
+      padding: 1rem 2rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 2px solid var(--accent);
+    }
+    
+    h1 {
+      color: var(--accent);
+      margin: 0;
+      font-size: 1.8rem;
+    }
+    
+    h1::after {
+      content: ">";
+      color: var(--light);
+      margin-left: 0.5rem;
+      animation: blink 1s step-end infinite;
+    }
+    
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+    
+    nav a {
+      color: var(--light);
+      text-decoration: none;
+      margin-left: 1.5rem;
+      padding: 0.5rem;
+      border-bottom: 2px solid transparent;
+      transition: all 0.3s ease;
+    }
+    
+    nav a:hover, nav a.active {
+      color: var(--accent);
+      border-bottom-color: var(--accent);
+    }
+    
+    .container {
+      max-width: 1200px;
+      margin: 2rem auto;
+      padding: 0 2rem;
+    }
+    
+    .hero {
+      text-align: center;
+      padding: 4rem 0;
+    }
+    
+    .hero h2 {
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+    }
+    
+    .hero p {
+      font-size: 1.2rem;
+      max-width: 800px;
+      margin: 0 auto 2rem;
+    }
+    
+    .terminal {
+      background: #0a0a0a;
+      border-radius: 5px;
+      padding: 1rem;
+      margin: 2rem 0;
+      font-family: monospace;
+      border: 1px solid var(--secondary);
+    }
+    
+    .terminal-header {
+      display: flex;
+      margin-bottom: 0.5rem;
+    }
+    
+    .terminal-btn {
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      margin-right: 6px;
+    }
+    
+    .terminal-btn.red { background: #ff5f56; }
+    .terminal-btn.yellow { background: #ffbd2e; }
+    .terminal-btn.green { background: #27c93f; }
+    
+    .section-title {
+      color: var(--accent);
+      border-bottom: 2px solid var(--secondary);
+      padding-bottom: 0.5rem;
+      margin-top: 3rem;
+    }
+    
+    .skills-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 1.5rem;
+      margin: 2rem 0;
+    }
+    
+    .skill-card {
+      background: var(--primary);
+      padding: 1.5rem;
+      border-radius: 5px;
+      border-left: 4px solid var(--accent);
+    }
+    
+    .projects-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+      gap: 2rem;
+    }
+    
+    .project-card {
+      background: var(--primary);
+      border-radius: 5px;
+      overflow: hidden;
+      transition: transform 0.3s ease;
+    }
+    
+    .project-card:hover {
+      transform: translateY(-5px);
+    }
+    
+    .project-content {
+      padding: 1.5rem;
+    }
+    
+    footer {
+      background: var(--primary);
+      text-align: center;
+      padding: 2rem;
+      margin-top: 3rem;
+    }
+    
+    .social-links a {
+      color: var(--light);
+      margin: 0 0.5rem;
+      font-size: 1.5rem;
+      transition: color 0.3s ease;
+    }
+    
+    .social-links a:hover {
+      color: var(--accent);
+    }
+  
