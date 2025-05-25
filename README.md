@@ -35,10 +35,10 @@
 ## 🌐 **Conecte-se Comigo**  
 
 📌 **Portfólio**: [naylor-c.github.io](https://naylor-c.github.io/Naylor-C/)  
-🔗 **LinkedIn**: [seu-perfil](https://www.linkedin.com/in/seu-perfil)  
-📱 **WhatsApp**: [+55 13 9200-12625](https://wa.me/5513920012625)  
-💬 **Discord**: `[seu_id]`  
-✉️ **E-mail**: [seu@email.com](mailto:seu@email.com)  
+🔗 **LinkedIn**: [Jhonatan](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BDZmf4XL1RjGpjhyRnwFqTA%3D%3D) <br>
+📱 **WhatsApp**: [+55 13 92001-2625](https://wa.me/5513920012625)  
+💬 **Discord**: [Naylor-C](https://discord.com/channels/@me/1344427331657404496)  
+✉️ **E-mail**: [Jhonatan/Naylor](mailto:academicnaylor@gmail.com)  
 
 ---
 
