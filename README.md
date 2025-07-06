@@ -1,7 +1,11 @@
 # Profissional:
+
 🚀 **Matematico**
-🚀 **Engenheiro Eletricista**  
-💻 **Especialista em**: Assembly, C, C++, Java; | Compiladores, Sistemas Embarcados e Desenvolvimento de Kernels.  
+
+🚀 **Engenheiro Eletricista**
+
+💻 **Especialista em**: Assembly, C, C++, Java; | Compiladores, Sistemas Embarcados e Desenvolvimento de Kernels.
+
 ---
 
 ## 🛠️ Stack Tecnológico  
