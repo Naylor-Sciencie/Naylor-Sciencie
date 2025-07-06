@@ -1,13 +1,3 @@
-# Profissional:
-
-🚀 **Matematico**
-
-🚀 **Engenheiro Eletricista**
-
-💻 **Especialista em**: Assembly, C, C++, Java; | Compiladores, Sistemas Embarcados e Desenvolvimento de Kernels.
-
----
-
 ## 🛠️ Stack Tecnológico  
 
 ### 🔹 **Linguagens de Programação**  
@@ -27,8 +17,8 @@
 
 ## 📊 **GitHub Analytics**  
 
-[![Estatísticas](https://github-readme-stats.vercel.app/api?username=Naylor-C&show_icons=true&count_private=true&theme=radical&hide_border=true)](https://github.com/Naylor-C)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naylor-C&layout=compact&theme=radical&hide_border=true)](https://github.com/Naylor-C)
+[![Estatísticas](https://github-readme-stats.vercel.app/api?username=Naylor-C&show_icons=true&count_private=true&theme=radical&hide_border=true)](https://github.com/Naylor-Sciencie)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naylor-C&layout=compact&theme=radical&hide_border=true)](https://github.com/Naylor-Sciencie)
 
 ---
 
