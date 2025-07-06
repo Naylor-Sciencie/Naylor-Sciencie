@@ -1,8 +1,7 @@
-# 👋 Olá, eu sou Jhonatan (Naylor-C)  
-
-🚀 **Engenheiro de Software/Computação** apaixonado por sistemas de baixo nível, programação de alto desempenho e otimização de código.  
-💻 **Especialista em**: C, C++, Rust, Zig | Compiladores, Sistemas Embarcados e Desenvolvimento de Kernels.  
-
+# Profissional:
+🚀 **Matematico**
+🚀 **Engenheiro Eletricista**  
+💻 **Especialista em**: Assembly, C, C++, Java; | Compiladores, Sistemas Embarcados e Desenvolvimento de Kernels.  
 ---
 
 ## 🛠️ Stack Tecnológico  
