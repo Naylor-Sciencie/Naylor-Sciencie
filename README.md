@@ -17,8 +17,8 @@
 
 ## 📊 **GitHub Analytics**  
 
-[![Estatísticas](https://github-readme-stats.vercel.app/api?username=Naylor-C&show_icons=true&count_private=true&theme=radical&hide_border=true)](https://github.com/Naylor-Sciencie)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naylor-C&layout=compact&theme=radical&hide_border=true)](https://github.com/Naylor-Sciencie)
+[![Estatísticas](https://github-readme-stats.vercel.app/api?username=Naylor-Sciencie&show_icons=true&count_private=true&theme=radical&hide_border=true)](https://github.com/Naylor-Sciencie)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naylor-Sciencie&layout=compact&theme=radical&hide_border=true)](https://github.com/Naylor-Sciencie)
 
 ---
 
