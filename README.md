@@ -24,13 +24,11 @@
 
 ## 🌐 **Conecte-se Comigo**  
 
-📌 **Portfólio**: [n](https://naylor-c.github.io/Naylor-C/)  
+📌 **Portfólio**: [Jhonatan](https://Naylor-Sciencie.github.io/Portfolio/)  
 🔗 **LinkedIn**: [Jhonatan](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BDZmf4XL1RjGpjhyRnwFqTA%3D%3D) <br>
 📱 **WhatsApp**: [Wpp](https://wa.me/5513920012625)  
 💬 **Discord**: [Dc](https://discord.com/channels/@me/1344427331657404496)  
 ✉️ **E-mail**: [Gmail](mailto:academicnaylor@gmail.com)  
 
 ---
-
-✨ **"Escrevo código que conversa diretamente com o hardware."**  
-🚀 **Atualmente explorando**: Desenvolvimento de compiladores com LLVM e otimização em Rust/Zig.  
+  
