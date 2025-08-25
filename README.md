@@ -5,6 +5,11 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-8E0B0B?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Fortran]()
+![Lisp]()
+![Cobol]()
+![Algol]()
+
 
 ### ⚙️ **Ferramentas & Infraestrutura**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
